@@ -1,0 +1,22 @@
+{
+  "name": "nodejs_webapp",
+  "version": "1.0.0",
+  "description": "simple web app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Deepak",
+  "license": "ISC",
+  "dependencies": {
+    "@handlebars/allow-prototype-access": "^1.0.5",
+    "express": "^4.17.2",
+    "express-handlebars": "^6.0.2",
+    "handlebars": "^4.7.7",
+    "hbs": "^4.2.0",
+    "mongoose": "^6.1.7",
+    "nodemon": "^2.0.15",
+    "validator": "^13.7.0",
+    "xlsx": "^0.17.5"
+  }
+}
